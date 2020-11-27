@@ -19,7 +19,7 @@ def charge(days,period):
 SumH=0
 SumL=0
 
-for i in range(3):
+for i in range(500):
     days= input("Give days")
     period=raw_input("Give period of staying")
     while period!= "LOW" and period!= "HIGH":
