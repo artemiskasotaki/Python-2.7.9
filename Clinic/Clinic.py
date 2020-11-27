@@ -30,4 +30,4 @@ for i in range(10):
         maxi=SumOfPatients[i]
         x=i
 
-print maxi, Clinic[x]
+print "The clinic",Clinic[x],"was the one where they were hospitalized more patiends:",maxi 
