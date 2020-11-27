@@ -1,0 +1,6 @@
+A hotel is charging for room renting depending on the days of staying and the period of renting depending on the following array:
+
+Days of Staying   Low Period     High Period
+      1-3         40€/per day    70€/per day
+      4-7         30€/per day    55€/per day
+      >7          25€/per day    50€/per day
