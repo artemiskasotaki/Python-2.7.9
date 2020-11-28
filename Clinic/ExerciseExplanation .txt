@@ -1,0 +1,9 @@
+In a well-known hospital there are 10 clinics, which are numbered from 0 to 10.
+During the first three months of the present year there were hospitalized N patients with each of them being treated in one of the above clinics.
+this program:
+-is reading from the keyboard the number of N patients who got hospitalized, making sure it is a number bigger than 10 and lower than 1000.
+-for each patient, the programm is getting from the keyboard the number of the clinic in which he is being treated and saves it in the list A.
+-it gets the names of the clinics and saves them in a list Clinics.
+-it calculates the number of patients who got treated in one clinic.
+-it prints the name of each clinic and the number of patients who got treated.
+-It prints the name of the clinic where they got hospitalized the most patient. 
