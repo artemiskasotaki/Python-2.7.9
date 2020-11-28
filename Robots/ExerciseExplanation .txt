@@ -1,0 +1,20 @@
+A robot with two legs moves at a constant speed  and covers a distance calculated from the product of the number of steps 
+multiplied with the length of the step in centimeters 
+Also it consumes energy equal to 10 Joule for each meter that moves.
+
+Thie program defines the class Robot which contains:
+-the number of the steps a robot walked
+-the length of each step in centimeters
+-the distance in meters
+And the following methods methods:
+-a method that builds objects of the class and initializes the datalike so : 
+  -distance and energy with 0 
+  -the steps and the length  according to what it accepts as a parameter
+-a method thas displays the data.
+-a method that calculates the distance and updates the previous data.
+-method that calculates the energy  and updates the previous data.
+
+Fow two different robots "Robo100" and "Robo101"
+it calculates all the above data, it prints the number of steps the distance and the energy of each of them.
+it finds what robot moved the slowest distance.
+
