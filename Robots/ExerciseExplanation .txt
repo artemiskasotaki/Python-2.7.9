@@ -14,3 +14,7 @@ And the following methods methods:
 -a method that calculates the distance and updates the previous data.
 -method that calculates the energy  and updates the previous data.
 
+Fow two different robots "Robo100" and "Robo101"
+it calculates all the above data, it prints the number of steps the distance and the energy of each of them.
+it finds what robot moved the slowest distance.
+
