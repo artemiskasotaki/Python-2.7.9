@@ -1,0 +1,10 @@
+A cinema has availabe one theater which performs daily 2 screenings of one movie.
+The capacity of each theater is 80 seats and the ticket costs 7 euros. This program:
+For every customer:
+  -reads his name, the number of the screening and the amound of tickets he wants to buy.
+  -It checks if the amound of tickets is available, if yes it prints the cost,if not it prints a message with the available ticket number.
+ the above process ends when you type "CLOSED" or both of the theater's tickets are sold out.
+ After the ticket bookings:
+  it prints the name of the customer to bought the most tickets.
+  it prints the cinema's income.
+  prints the name of the last customer who bought a ticket.
