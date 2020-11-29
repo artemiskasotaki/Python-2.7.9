@@ -1,0 +1,5 @@
+A high school has 200 students and its election day for the 15-member council. This proramm
+-reads for each of the 40 candidates. his name, the classroom he is from (A or B or C) and how many votes he collected
+-it prints which class candtidates collected the most votes
+-prints the names of the 15 member council
+-prints which student from class a got the least votes
