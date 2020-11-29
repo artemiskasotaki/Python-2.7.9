@@ -3,8 +3,8 @@ NAMES=CLASS=VOTES=[]
 for i in range(40):
     name=raw_input("Name of candidate: ")
     classroom=raw_input("Candidate's class:")
-    while classroom !="A" or classroom != "B" or classroom != "C":
-        classroom=raw_input("Class must be A,B or C. Give again: ")
+    #while classroom !="A" and classroom != "B" and classroom != "C":
+     #   classroom=raw_input("Class must be A,B or C. Give again: ")
     votes=input("How many votes: ")
     while votes<0 or votes>200:
         votes=input("The number of votes must be from 0 to 200. Give votes again:")
@@ -55,4 +55,4 @@ while i>=0 and not found:
         found=True
     else:
         i-=1
-print "The student from class A with the least votes is: ", NAMES[i]
+print "The student from class A with the least votes is: ", NAMES[i] 
